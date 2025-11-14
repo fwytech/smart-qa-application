@@ -1,0 +1,6 @@
+{
+  "created_at": "2025-11-14T15:59:56.196536",
+  "documents_count": 234,
+  "embedding_model": "text-embedding-v1",
+  "vector_dimension": 768
+}
