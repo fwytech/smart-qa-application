@@ -688,5 +688,6 @@ class AgenticRAGSystem:
 
 
 if __name__ == "__main__":
+    print("启动应用...")
     app = AgenticRAGSystem()
     app.run()
