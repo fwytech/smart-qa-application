@@ -690,4 +690,5 @@ class AgenticRAGSystem:
 if __name__ == "__main__":
     print("启动应用...")
     app = AgenticRAGSystem()
+    print("应用初始化完成")
     app.run()
